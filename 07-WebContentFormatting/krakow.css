@@ -1,0 +1,26 @@
+thead {
+    background-color: darkgreen;
+}
+tr {
+    color:black;
+}
+td {
+    padding: 5px;
+    border: 2px solid;
+}
+table{
+    width: 100%;
+    border: 8px solid;
+}
+th {
+    color: white;
+}
+.sign {
+    width: 40%;
+}
+.land{
+    width: 25%;
+}
+tr:hover{
+    background-color:gray;
+}

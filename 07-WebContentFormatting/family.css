@@ -1,0 +1,23 @@
+form{
+    
+}
+body{
+    
+}
+div{
+    margin:10px;
+    font-family:Arial;
+}
+.button{
+    background-color: lime;
+    color:black;
+    width: 15%;
+    height: 30px;
+    font-weight: bold;
+}
+.text{
+    border: 5px solid black;
+}
+.form{
+    width: 100%;
+}
